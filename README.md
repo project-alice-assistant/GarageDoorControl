@@ -1,5 +1,7 @@
 # GarageDoorControl
 
+[![Continous Integration](https://gitlab.com/project-alice-assistant/skills/skill_GarageDoorControl/badges/master/pipeline.svg)](https://gitlab.com/project-alice-assistant/skills/skill_GarageDoorControl/pipelines/latest)
+
 ### Download
 
 ##### > WGET method
