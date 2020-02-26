@@ -1,6 +1,7 @@
 {
 	"name": "GarageDoorControl",
 	"version": "0.0.3",
+	"icon": "battle-net",
 	"author": "mjlill",
 	"maintainers": [
 		"maxbachmann"
