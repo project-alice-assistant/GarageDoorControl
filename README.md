@@ -5,7 +5,7 @@
 ### Description
 Allows for control for a garage door or other selected device
 
-- Version: 0.0.4
+- Version: 0.0.5
 - Author: mjlill
 - Maintainers:
   - maxbachmann
