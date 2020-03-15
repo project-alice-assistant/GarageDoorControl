@@ -1,7 +1,7 @@
 {
 	"name": "GarageDoorControl",
-	"version": "0.0.5",
-	"icon": "fab fa-battle-net",
+	"version": "0.0.6",
+	"icon": "fas fa-warehouse",
 	"category": "automation",
 	"author": "mjlill",
 	"maintainers": [
