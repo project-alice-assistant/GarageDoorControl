@@ -1,11 +1,12 @@
 {
 	"name": "GarageDoorControl",
-	"version": "0.0.6",
+	"version": "1.0.0",
 	"icon": "fas fa-warehouse",
 	"category": "automation",
 	"author": "mjlill",
 	"maintainers": [
-		"maxbachmann"
+		"maxbachmann",
+		"Psychokiller1888"
 	],
 	"desc": "Garage door control",
 	"aliceMinVersion": "1.0.0-a4",
