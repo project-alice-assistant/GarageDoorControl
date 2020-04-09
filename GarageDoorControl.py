@@ -13,7 +13,8 @@ class GarageDoorControl(AliceSkill):
 	Author: mjlill
 	Description: Press an imaginary button on or off
 	"""
-	
+
+
 	def __init__(self):
 		super().__init__()
 		self._gpioPin: Optional[int] = None
@@ -39,10 +40,8 @@ class GarageDoorControl(AliceSkill):
 		GPIO.output(self._gpioPin, GPIO.HIGH)
 		self.endDialog(session.sessionId, self.TalkManager.randomTalk('DoDoorOpen'))
 
+
 	@IntentHandler('DoDoorClose')
 	def buttonOffIntent(self, session: DialogSession, **_kwargs):
 		GPIO.output(self._gpioPin, GPIO.LOW)
 		self.endDialog(session.sessionId, self.TalkManager.randomTalk('DoDoorClose'))
-
-
-
