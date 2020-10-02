@@ -1,12 +1,9 @@
 {
 	"skill": "GarageDoorControl",
-	"icon": "lamp",
-	"description": "Open and close a garage door",
 	"slotTypes": [],
 	"intents": [
 		{
 			"name": "DoDoorOpen",
-			"description": "User is asking to open garage door",
 			"enabledByDefault": true,
 			"utterances": [
 				"open garage door",
@@ -24,7 +21,6 @@
 		},
 		{
 			"name": "DoDoorClose",
-			"description": "User is asking to close garage door",
 			"enabledByDefault": true,
 			"utterances": [
 				"close garage door",
