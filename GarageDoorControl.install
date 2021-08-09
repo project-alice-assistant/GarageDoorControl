@@ -1,6 +1,6 @@
 {
     "name": "GarageDoorControl",
-    "version": "1.0.7",
+    "version": "1.0.8",
     "icon": "fas fa-warehouse",
     "category": "automation",
     "author": "mjlill",
